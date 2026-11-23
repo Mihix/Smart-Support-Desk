@@ -1,0 +1,990 @@
+instruction,occurrences,unique_categories,unique_intents,unique_responses
+shipmetns to {{Delivery City}},8,1,1,8
+shipments to {{Delivery City}},8,1,1,8
+shiping to {{Delivery City}},8,1,1,8
+is it possibleto place an order from {{Delivery City}},8,1,1,8
+is it possible to place an order from {{Delivery City}},8,1,1,8
+is it possible to place an order from {{Delivery City}}?,8,1,1,8
+is it possible toorder from {{Delivery City}},8,1,1,8
+is it possible to order from {{Delivery City}}?,8,1,1,8
+is it possible to order from {{Delivery City}},8,1,1,8
+is it possible to order from {{Delivery City}} ?,8,1,1,8
+do ya deliver to {{Delivery City}},8,1,1,8
+do you ship to {{Delivery City}}?,8,1,1,8
+do you deliver to {{Delivery City}}?,8,1,1,8
+do you deliver to {{Delivery City}} ?,8,1,1,8
+can i place an order from {{Delivery City}},8,1,1,8
+d uship to {{Delivery City}},8,1,1,8
+do uship to {{Delivery City}},8,1,1,8
+deliveries to {{Delivery City}},8,1,1,8
+cn I place an order from {{Delivery City}}?,8,1,1,8
+can I order from {{Delivery City}}?,8,1,1,8
+can i order from {{Delivery City}},8,1,1,8
+can I place an order from {{Delivery City}}?,8,1,1,8
+delieries to {{Delivery City}},8,1,1,8
+do you shp to {{Delivery City}}?,8,1,1,8
+is it possible to place an order from {{Delivery City}} ?,7,1,1,7
+shipping to {{Delivery City}},7,1,1,7
+is it possible to place na order from {{Delivery Country}},6,1,1,6
+is it possible to place an order from {{Delivery Country}},6,1,1,6
+shipping to {{Delivery Country}},6,1,1,6
+shipnents to {{Delivery Country}},6,1,1,6
+hsipping to {{Delivery Country}},6,1,1,6
+do you ship  to {{Delivery Country}}?,6,1,1,6
+is it possible to place an order from {{Delivery Country}}?,6,1,1,6
+is it possible to order from {{Delivery Country}}?,6,1,1,6
+can I order from {{Delivery Country}}?,6,1,1,6
+do ya ship to {{Delivery Country}},6,1,1,6
+do ya deliver to {{Delivery Country}},6,1,1,6
+do you ship to {{Delivery Country}}?,6,1,1,6
+do you deliver to {{Delivery Country}}?,6,1,1,6
+can i place an oeder from {{Delivery City}},6,1,1,6
+can I place an ordewr from {{Delivery Country}}?,6,1,1,6
+can i order from {{Delivery Country}},6,1,1,6
+can i place an order frim {{Delivery Country}},6,1,1,6
+can I place an order from {{Delivery Country}}?,6,1,1,6
+deliverids to {{Delivery Country}},6,1,1,6
+can i place an order from {{Delivery Country}},6,1,1,6
+shipments to {{Delivery Country}},6,1,1,6
+is it possible to order from {{Delivery Country}},6,1,1,6
+is it possible to ordet from {{Delivery Country}},6,1,1,6
+is it possible to place a order from {{Delivery Country}}?,6,1,1,6
+is it plssible to order from {{Delivery Country}}?,6,1,1,6
+I can't afford purchase {{Order Number}},5,1,1,5
+send me bills from {{Person Name}},5,1,1,5
+send me bill from {{Person Name}},5,1,1,5
+I can no longer pay for purchase {{Order Number}},5,1,1,5
+I am waiting for an restitution of {{Refund Amount}} dollars,5,1,1,5
+I can no longer afford order {{Order Number}},5,1,1,5
+ETA of order {{Order Number}},5,1,1,5
+where could I cancel purchase {{Order Number}}?,5,1,1,5
+what do I have to do to cancel purchase {{Order Number}}?,5,1,1,5
+I am waiting for an refund of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+where do I cancel purchase {{Order Number}}?,5,1,1,5
+rebating  {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+rebating  {{Refund Amount}} dollars,5,1,1,5
+rebating {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+rebating {{Refund Amount}} dollars,5,1,1,5
+refund  {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I expect a compensation of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+refund {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+refund {{Refund Amount}} dollars,5,1,1,5
+refunding {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+refunding {{Refund Amount}}  dollars,5,1,1,5
+refunding {{Refund Amount}} dollars,5,1,1,5
+refunding{{Currency Symbol}}{{Refund Amount}},5,1,1,5
+reimburse {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+reimburse {{Refund Amount}} dollar,5,1,1,5
+reimburse {{Refund Amount}} dollars,5,1,1,5
+reimbursing {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I expect a compensation of {{Refund Amount}} dollars,5,1,1,5
+I expect a rebate of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I expect a rebate of {{Refund Amount}} dollars,5,1,1,5
+I expect a refund of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I expect a refund of {{Refund Amount}} dollars,5,1,1,5
+I expect a reimbursement of {{Refund Amount}} dollars,5,1,1,5
+I expect a restitution of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I expect a restitution of {{Refund Amount}} dollars,5,1,1,5
+problem with cancelling purchase {{Order Number}},5,1,1,5
+problems with canceling purchase {{Order Number}},5,1,1,5
+rebate  {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+question about cancelling purchase {{Order Number}},5,1,1,5
+purchase {{Order Number}} current status,5,1,1,5
+problems with cancelling purchase {{Order Number}},5,1,1,5
+question about canceling purchase {{Order Number}},5,1,1,5
+purchase {{Order Number}} status,5,1,1,5
+I have problems with canceling purchase {{Order Number}},5,1,1,5
+order  {{Order Number}} status,5,1,1,5
+order {{Order Number}} current status,5,1,1,5
+order {{Order Number}} status,5,1,1,5
+seeing bill from {{Person Name}},5,1,1,5
+see order {{Order Number}} status,5,1,1,5
+I don't know how to cancel purchase {{Order Number}},5,1,1,5
+I don't know how I can cancel purchase {{Order Number}},5,1,1,5
+I do not know how to cancel purchase {{Order Number}},5,1,1,5
+see order {{Order Number}} current status,5,1,1,5
+see bills from {{Person Name}},5,1,1,5
+see bill from {{Person Name}},5,1,1,5
+remove something from order {{Order Number}},5,1,1,5
+remove item from order {{Order Number}},5,1,1,5
+reimbusre {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+reimbursing {{Refund Amount}} dollars,5,1,1,5
+I am waiting for a reimbursement of {{Refund Amount}} dollras,5,1,1,5
+I am waiting for a reimburswment of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I am waiting for a restitution of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I am waiting for a restitution of {{Refund Amount}} dollars,5,1,1,5
+I am waiting for an rebate of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I am waiting for a reimbursement of {{Refund Amount}} dollars,5,1,1,5
+updating order {{Order Number}},5,1,1,5
+I am waiting for a reimbursement of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I do not know how I can cancel purchase {{Order Number}},5,1,1,5
+track order {{Order Number}},5,1,1,5
+track purchase {{Order Number}},5,1,1,5
+tracking order {{Order Number}},5,1,1,5
+update order {{Order Number}},5,1,1,5
+status of order {{Order Number}},5,1,1,5
+I can no longer pay for order {{Order Number}},5,1,1,5
+I can no longer afford purchase {{Order Number}},5,1,1,5
+i expect a compensation of {{Refund Amount}} dollars,5,1,1,5
+i expect a compensqtion of {{Refund Amount}} dollars,5,1,1,5
+i expect a rebate of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I need help canceling purchase {{Order Number}},5,1,1,5
+I need help cancelling purchase {{Order Number}},5,1,1,5
+I need help to cancel purchase {{Order Number}},5,1,1,5
+I need help with canceling purchase {{Order Number}},5,1,1,5
+I need help with cancelling purchase {{Order Number}},5,1,1,5
+i expect a rebate of {{Refund Amount}} dollars,5,1,1,5
+i expect a refund of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+i expect a refund of {{Refund Amount}} dollars,5,1,1,5
+i expect a reimbursement of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+i expect a reimbursement of {{Refund Amount}} dollars,5,1,1,5
+i expect a restitution of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+i expect a restitution of {{Refund Amount}} dollafs,5,1,1,5
+i expect a restitution of {{Refund Amount}} dollars,5,1,1,5
+i expect an rebate of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I have problems with cancelling purchase {{Order Number}},5,1,1,5
+I need assistance canceling purchase {{Order Number}},5,1,1,5
+I need assistance cancelling purchase {{Order Number}},5,1,1,5
+I need assistance to cancel purchase {{Order Number}},5,1,1,5
+is it possible to cancel purchase {{Order Number}}?,5,1,1,5
+I have a problem with cancelling purchase {{Order Number}},5,1,1,5
+I have got to cancel purchase {{Order Number}},5,1,1,5
+I exxpect a rebate of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I expect an reimbursement of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+modify order {{Order Number}},5,1,1,5
+modify purchase {{Order Number}},5,1,1,5
+help with canceling purchase {{Order Number}},5,1,1,5
+help to cancel purchase {{Order Number}},5,1,1,5
+i exepct a restitution of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+i expect a compensation of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+download bill from {{Person Name}},5,1,1,5
+download bills from {{Person Name}},5,1,1,5
+edit order {{Order Number}},5,1,1,5
+edit ordr {{Order Number}},5,1,1,5
+edit purchase {{Order Number}},5,1,1,5
+editing order {{Order Number}},5,1,1,5
+I want help canceling purchase {{Order Number}},5,1,1,5
+I want help cancelling purchase {{Order Number}},5,1,1,5
+I want help to cancel purchase {{Order Number}},5,1,1,5
+get bill from {{Person Name}},5,1,1,5
+do you edliver to {{Delivery Country}}?,5,1,1,5
+do ya deoiver to {{Delivery City}},5,1,1,5
+I'm waiting for a reimbursement of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I'm waiting for a reimbjrsement of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I'm waiting for a refund of {{Refund Amount}} dollrs,5,1,1,5
+i dont want order {{Order Number}},5,1,1,5
+getting bills from {{Person Name}},5,1,1,5
+getting bill from {{Person Name}},5,1,1,5
+getbills from {{Person Name}},5,1,1,5
+get invoices from {{Person Name}},5,1,1,5
+get invoice from {{Person Name}},5,1,1,5
+get bills from {{Person Name}},5,1,1,5
+I want assistance to cancel purchase {{Order Number}},5,1,1,5
+I want assistance cancelling purchase {{Order Number}},5,1,1,5
+I want assistance canceling purchase {{Order Number}},5,1,1,5
+help me to cancel purchase {{Order Number}},5,1,1,5
+help me cancelling purchase {{Order Number}},5,1,1,5
+help me canceling purchase {{Order Number}},5,1,1,5
+help me cancel purchase {{Order Number}},5,1,1,5
+help canceling purchase {{Order Number}},5,1,1,5
+getting invoices from {{Person Name}},5,1,1,5
+getting invoice from {{Person Name}},5,1,1,5
+I'm waiting for a restitution of {{Refund Amount}} dollars,5,1,1,5
+I'm waiting for a restitution of {{Refund Amount}} dollras,5,1,1,5
+I'm waiting for a restitution oof {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I'm waiting for an refund of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+Iexpect a restitution of {{Refund Amount}} dollars,5,1,1,5
+add item to order {{Order Number}},5,1,1,5
+add something to order {{Order Number}},5,1,1,5
+assistance canceling purchase {{Order Number}},5,1,1,5
+assistance cancelling purchase {{Order Number}},5,1,1,5
+I'm waiting for a  compensation of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I'm waiting for a compensation of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I'm waiting for a compensation of {{Refund Amount}} dollars,5,1,1,5
+I'm waiting for a ocmpensation of {{Refund Amount}} dollars,5,1,1,5
+I'm waiting for a rebate of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I'm waiting for a rebate of {{Refund Amount}} dollars,5,1,1,5
+I'm waiting for a refund of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I'm waiting for a refund of {{Refund Amount}} dollars,5,1,1,5
+checking invoices from {{Person Name}},5,1,1,5
+checking order {{Order Number}} status,5,1,1,5
+checking invoice from {{Person Name}},5,1,1,5
+check order {{Order Number}} status,5,1,1,5
+check order {{Order Number}} current status,5,1,1,5
+checking ETA of order {{Order Number}},5,1,1,5
+I'm waiting for a restitution of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I'm waiting for a reimbursement of {{Refund Amount}} dollars,5,1,1,5
+camceling order {{Order Number}},5,1,1,5
+assistance with canceling purchase {{Order Number}},5,1,1,5
+assistance with cancelling purchase {{Order Number}},5,1,1,5
+assistance to cancel purchase {{Order Number}},5,1,1,5
+correct order {{Order Number}},5,1,1,5
+checking status of order {{Order Number}},5,1,1,5
+deliveries to {{Delivery Country}},5,1,1,5
+cancelling order {{Order Number}},5,1,1,5
+cancelling purchase {{Order Number}},5,1,1,5
+canmcel order {{Order Number}},5,1,1,5
+change order {{Order Number}},5,1,1,5
+changing order {{Order Number}},5,1,1,5
+check ETA of order {{Order Number}},5,1,1,5
+check bill from {{Person Name}},5,1,1,5
+check invoice from {{Person Name}},5,1,1,5
+check status of order {{Order Number}},5,1,1,5
+check invoices from {{Person Name}},5,1,1,5
+cance order {{Order Number}},5,1,1,5
+can you help me to cancel purchase {{Order Number}}?,5,1,1,5
+canceling order {{Order Number}},5,1,1,5
+canceling purchase {{Order Number}},5,1,1,5
+cancel purchase {{Order Number}},5,1,1,5
+cancel order {{Order Number}},5,1,1,5
+can I ordrr from {{Delivery City}}?,5,1,1,5
+can i order frrom {{Delivery Country}},5,1,1,5
+can you help me canceling purchase {{Order Number}}?,5,1,1,5
+can you help me cancelling purchase {{Order Number}}?,5,1,1,5
+can you help me cancel purchase {{Order Number}}?,5,1,1,5
+where can I cancel purchase {{Order Number}}?,5,1,1,5
+what do I need to do to cancel purchase {{Order Number}}?,5,1,1,5
+I am waiting for a refund of {{Refund Amount}} dollars,5,1,1,5
+I am waiting for a refund of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I am waiting for a rebate of {{Refund Amount}} dollars,5,1,1,5
+I am waiting for a rebate of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I am waiting for a compensation of {{Refund Amount}} doolars,5,1,1,5
+I am waiting for a compensation of {{Refund Amount}} dollars,5,1,1,5
+I am waiting for a compensation of {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I am waiting for a compensation of  {{Currency Symbol}}{{Refund Amount}},5,1,1,5
+I am trying to cancel purchase {{Order Number}},5,1,1,5
+I am waiting for a refnd of {{Refund Amount}} dollars,4,1,1,4
+i expecdt a refund of {{Refund Amount}} dollars,4,1,1,4
+how could I cancel purchase {{Order Number}}?,4,1,1,4
+I need help cancelling order {{Order Number}},4,1,1,4
+i expect a reimbursxement of {{Currency Symbol}}{{Refund Amount}},4,1,1,4
+can i order frlm {{Delivery City}},4,1,1,4
+i need assistance to cancel order {{Order Number}},4,1,1,4
+help with cancelling purchase {{Order Number}},4,1,1,4
+i want help canceling order {{Order Number}},4,1,1,4
+i xepect a refund of {{Currency Symbol}}{{Refund Amount}},4,1,1,4
+I expect an refund of {{Refund Amount}} dollars,4,1,1,4
+I have a problem with canceling purchase {{Order Number}},4,1,1,4
+I try to cancel purchase {{Order Number}},4,1,1,4
+locate order {{Order Number}},4,1,1,4
+mail me the bills from {{Person Name}},4,1,1,4
+help me see the status of purchase {{Order Number}},4,1,1,4
+need help with canceling purchase {{Order Number}},4,1,1,4
+find my bill from {{Person Name}},4,1,1,4
+update purchase {{Order Number}},4,1,1,4
+I want help cancellkng purchase {{Order Number}},4,1,1,4
+od ya deliver to {{Delivery Country}},4,1,1,4
+problem with canceling purchase {{Order Number}},4,1,1,4
+I would like to cancel purchase {{Order Number}},4,1,1,4
+I expect a reimbursement of {{Currency Symbol}}{{Refund Amount}},4,1,1,4
+I expect a reufnd of {{Currency Symbol}}{{Refund Amount}},4,1,1,4
+problems with cancelling order {{Order Number}},4,1,1,4
+rebate {{Refund Amount}} dollars,4,1,1,4
+I don't want purchase {{Order Number}},4,1,1,4
+see invoices from {{Person Name}},4,1,1,4
+correct purchase {{Order Number}},4,1,1,4
+see purchase {{Order Number}} current status,4,1,1,4
+see purchase {{Order Number}} status,4,1,1,4
+see the bill from {{Person Name}},4,1,1,4
+seeing bills from {{Person Name}},4,1,1,4
+cancel purchase  {{Order Number}},4,1,1,4
+show me order {{Order Number}} current status,4,1,1,4
+I can't afford order {{Order Number}},4,1,1,4
+I can't pay for purchase {{Order Number}},4,1,1,4
+I cannot afford order {{Order Number}},4,1,1,4
+check bills from {{Person Name}},4,1,1,4
+I am waiting for an restitution of {{Currency Symbol}}{{Refund Amount}},4,1,1,4
+i do not know how to cancel order {{Order Number}},4,1,1,4
+i dont know how i can cancel purchase {{Order Number}},4,1,1,4
+how to edit order {{Order Number}}?,4,1,1,4
+i dont know how to cancel purchase {{Order Number}},4,1,1,4
+updating purchase {{Order Number}},4,1,1,4
+I am waiting for a rebate fo {{Refund Amount}} dollars,3,1,1,3
+using {{Account Type}} accouny,3,1,1,3
+using {{Account Type}} account,3,1,1,3
+using {{Account Category}} account,3,1,1,3
+use {{Account Type}} account,3,1,1,3
+updateorder {{Order Number}},3,1,1,3
+updating data on {{Account Category}} account,3,1,1,3
+updating data on {{Account Type}} account,3,1,1,3
+updating details on {{Account Category}} account,3,1,1,3
+updating details on {{Account Type}} account,3,1,1,3
+updating info on {{Account Category}} account,3,1,1,3
+can I use the {{Account Category}} profile?,3,1,1,3
+can I use the {{Account Type}} profile?,3,1,1,3
+what is order {{Order Number}} current status?,3,1,1,3
+what is order {{Order Number}} status,3,1,1,3
+can uhelp me canceling purchase {{Order Number}},3,1,1,3
+can uhelp me cancelling purchase {{Order Number}},3,1,1,3
+can ya help me cancel purchase {{Order Number}},3,1,1,3
+i have problems with canceling order {{Order Number}},3,1,1,3
+i need assistance cancelling purchase {{Order Number}},3,1,1,3
+i need assistance with canceling order {{Order Number}},3,1,1,3
+update details on {{Account Category}} account,3,1,1,3
+changing info on {{Account Category}} account,3,1,1,3
+changing info on {{Account Type}} account,3,1,1,3
+changing information on {{Account Category}} account,3,1,1,3
+changing information on {{Account Type}} account,3,1,1,3
+changing to {{Account Category}} account,3,1,1,3
+changing to {{Account Type}} account,3,1,1,3
+changkng to {{Account Type}} account,3,1,1,3
+can I change to the {{Account Category}} account?,3,1,1,3
+can I change to the {{Account Type}} account?,3,1,1,3
+change information on {{Account Category}} account,3,1,1,3
+what do i need to do to cancel order {{Order Number}},3,1,1,3
+"I bought some item, cancel order {{Order Number}}",3,1,1,3
+want assistance cancelling order {{Order Number}},3,1,1,3
+want help canceling purchase {{Order Number}},3,1,1,3
+want help cancelling purchase {{Order Number}},3,1,1,3
+show me order {{Order Number}} status,3,1,1,3
+switch to  {{Account Category}} account,3,1,1,3
+I cannot afford purchase {{Order Number}},3,1,1,3
+can I edit purchase {{Order Number}}?,3,1,1,3
+can I open a {{Account Type}} account?,3,1,1,3
+chck bill from {{Person Name}},3,1,1,3
+check purchase {{Order Number}} current status,3,1,1,3
+I cannot update purchase {{Order Number}},3,1,1,3
+switch to  {{Account Type}} account,3,1,1,3
+switch to {{Account Category}} account,3,1,1,3
+switch to {{Account Type}} account,3,1,1,3
+switching to {{Account Category}} account,3,1,1,3
+switching to {{Account Type}} account,3,1,1,3
+trackorder {{Order Number}},3,1,1,3
+update data on {{Account Category}} account,3,1,1,3
+update data on {{Account Type}} account,3,1,1,3
+seebills from {{Person Name}},3,1,1,3
+change information on {{Account Type}} account,3,1,1,3
+change purchase {{Order Number}},3,1,1,3
+change to the {{Account Category}} account,3,1,1,3
+change to the {{Account Type}} account,3,1,1,3
+change to {{Account Category}} account,3,1,1,3
+change to {{Account Type}} account,3,1,1,3
+change to {{Account Type}} acount,3,1,1,3
+changing data on {{Account Category}} account,3,1,1,3
+changing data on {{Account Type}} account,3,1,1,3
+changing details on {{Account Category}} account,3,1,1,3
+changing details on {{Account Type}} account,3,1,1,3
+cancel {{Account Category}} account,3,1,1,3
+cancel {{Account Type}} account,3,1,1,3
+cancelin {{Account Type}} account,3,1,1,3
+canceling {{Account Category}} account,3,1,1,3
+correcting information on {{Account Category}} account,3,1,1,3
+correcting information on {{Account Type}} account,3,1,1,3
+checking bill from {{Person Name}},3,1,1,3
+checking order {{Order Number}} current status,3,1,1,3
+close {{Account Category}} account,3,1,1,3
+close {{Account Type}} account,3,1,1,3
+closing {{Account Category}} account,3,1,1,3
+closing {{Account Type}} account,3,1,1,3
+clsoe {{Account Category}} account,3,1,1,3
+clsoe {{Account Type}} account,3,1,1,3
+correct data on {{Account Category}} account,3,1,1,3
+correct data on {{Account Type}} account,3,1,1,3
+correct details on {{Account Category}} account,3,1,1,3
+correct details on {{Account Type}} account,3,1,1,3
+I don't know how I can change to the {{Account Category}} account,3,1,1,3
+seebill from {{Person Name}},3,1,1,3
+correcting order {{Order Number}},3,1,1,3
+could you help me cancel purchase {{Order Number}}?,3,1,1,3
+could you help me canceling purchase {{Order Number}}?,3,1,1,3
+could you help me to cancel purchase {{Order Number}}?,3,1,1,3
+create new {{Account Category}} account,3,1,1,3
+correct info on {{Account Category}} account,3,1,1,3
+correct info on {{Account Type}} account,3,1,1,3
+correct information on {{Account Category}} account,3,1,1,3
+correct information on {{Account Type}} account,3,1,1,3
+correcting data on {{Account Category}} account,3,1,1,3
+correcting data on {{Account Type}} account,3,1,1,3
+correcting details on {{Account Category}} account,3,1,1,3
+correcting details on {{Account Type}} account,3,1,1,3
+correcting info on {{Account Category}} account,3,1,1,3
+correcting info on {{Account Type}} account,3,1,1,3
+correcting info on {{Account Type}} aqccount,3,1,1,3
+create new {{Account Type}} account for daughter,3,1,1,3
+create {{Account Category}} account,3,1,1,3
+create {{Account Category}} account for wife,3,1,1,3
+create {{Account Type}} account,3,1,1,3
+create {{Account Type}} account for wife,3,1,1,3
+I don't know what to do to change to the {{Account Category}} account,3,1,1,3
+I don't know what to do to change to the {{Account Type}} account,3,1,1,3
+I don't know what to do to switch to the {{Account Category}} account,3,1,1,3
+I expect a compendation of {{Currency Symbol}}{{Refund Amount}},3,1,1,3
+reimbursing {{Refund Amount}} ddollars,3,1,1,3
+remove {{Account Category}} account,3,1,1,3
+remove {{Account Type}} account,3,1,1,3
+removing {{Account Category}} account,3,1,1,3
+removing {{Account Type}} account,3,1,1,3
+see invoice from {{Person Name}},3,1,1,3
+see my bills from {{Person Name}},3,1,1,3
+problems with {{Account Category}} account cancellations,3,1,1,3
+assistance using the {{Account Type}} profile,3,1,1,3
+creating new {{Account Type}} account,3,1,1,3
+creating {{Account Category}} account,3,1,1,3
+creating {{Account Type}} account,3,1,1,3
+delete {{Account Category}} account,3,1,1,3
+delete {{Account Type}} account,3,1,1,3
+deleting {{Account Category}} account,3,1,1,3
+purchase {{Order Number}} current  status,3,1,1,3
+question about canceling order {{Order Number}},3,1,1,3
+rebate {{Currency Symbol}}{{Refund Amount}},3,1,1,3
+I don't know what I have to do to cancel my {{Account Type}} account,3,1,1,3
+I don't know what I need to do to change to the {{Account Type}} account,3,1,1,3
+I don't know what to do to cancel purchase {{Order Number}},3,1,1,3
+create new {{Account Category}} account for daughter,3,1,1,3
+create new {{Account Type}} account,3,1,1,3
+problem with cancelling order {{Order Number}},3,1,1,3
+deleting {{Account Type}} account,3,1,1,3
+another {{Account Type}} account,3,1,1,3
+another {{Account Type}} account for father,3,1,1,3
+"I would like to locate order {{Order Number}}, I need help",3,1,1,3
+edit data on {{Account Category}} account,3,1,1,3
+edit data on {{Account Type}} account,3,1,1,3
+edit details on {{Account Category}} account,3,1,1,3
+edit details on {{Account Type}} account,3,1,1,3
+"I expect a refund of {{Refund Amount}} dollars, has it been processed?",3,1,1,3
+I expect a reimbursmeent of {{Refund Amount}} dollars,3,1,1,3
+"I expect a restitution of {{Currency Symbol}}{{Refund Amount}}, was it processed",3,1,1,3
+I expect an compensation of {{Refund Amount}} dollars,3,1,1,3
+I expect an rebate of {{Refund Amount}} dollars,3,1,1,3
+problem with {{Account Type}} account cancellations,3,1,1,3
+problem with {{Account Type}} account terminations,3,1,1,3
+edit information on {{Account Category}} account,3,1,1,3
+edit information on {{Account Type}} account,3,1,1,3
+edit {{Account Category}} account,3,1,1,3
+edit {{Account Type}} accont,3,1,1,3
+edit {{Account Type}} account,3,1,1,3
+editing data on {{Account Category}} account,3,1,1,3
+editing data on {{Account Type}} account,3,1,1,3
+open {{Account Category}} account for wife,3,1,1,3
+open {{Account Category}} cacount for wife,3,1,1,3
+open {{Account Type}} account,3,1,1,3
+open {{Account Type}} account for wife,3,1,1,3
+opening new {{Account Category}} account,3,1,1,3
+opening new {{Account Category}} account for daughter,3,1,1,3
+opening new {{Account Type}} account,3,1,1,3
+opening new {{Account Type}} account for daughter,3,1,1,3
+opening {{Account Type}} account for wife,3,1,1,3
+editing {{Account Category}} account,3,1,1,3
+new {{Account Category}} account for wife,3,1,1,3
+new {{Account Category}} acount,3,1,1,3
+new {{Account Type}} account,3,1,1,3
+new {{Account Type}} account for wife,3,1,1,3
+new {{Account Type}} acount,3,1,1,3
+new {{Account Type}} acount for wife,3,1,1,3
+opdn {{Account Category}} account,3,1,1,3
+opdn {{Account Type}} account,3,1,1,3
+open a {{Account Category}} account,3,1,1,3
+open a {{Account Category}} account for my dad,3,1,1,3
+open a {{Account Type}} account,3,1,1,3
+open a {{Account Type}} account for my dad,3,1,1,3
+open {{Account Category}} account,3,1,1,3
+edit info on {{Account Category}} account,3,1,1,3
+edit info on {{Account Type}} account,3,1,1,3
+editing information on {{Account Type}} account,3,1,1,3
+canceling {{Account Type}} account,3,1,1,3
+cancelling {{Account Category}} account,3,1,1,3
+cancelling {{Account Type}} account,3,1,1,3
+change data on {{Account Category}} account,3,1,1,3
+change data on {{Account Type}} account,3,1,1,3
+change details on {{Account Category}} account,3,1,1,3
+change details on {{Account Type}} account,3,1,1,3
+change info on {{Account Category}} account,3,1,1,3
+change info on {{Account Type}} account,3,1,1,3
+update details on {{Account Type}} account,3,1,1,3
+update info on {{Account Category}} account,3,1,1,3
+update info on {{Account Type}} account,3,1,1,3
+update inforemation on {{Account Category}} account,3,1,1,3
+update information on {{Account Category}} account,3,1,1,3
+update information on {{Account Type}} account,3,1,1,3
+modifying ingormation on {{Account Type}} account,3,1,1,3
+modifying purchase {{Order Number}},3,1,1,3
+modifying {{Account Category}} account,3,1,1,3
+modifying {{Account Type}} account,3,1,1,3
+need assistance canceling order {{Order Number}},3,1,1,3
+need assistance cancelling order {{Order Number}},3,1,1,3
+need help with canceling order {{Order Number}},3,1,1,3
+new {{Account Category}} account,3,1,1,3
+editing {{Account Type}} account,3,1,1,3
+editting details on {{Account Category}} account,3,1,1,3
+find my bills from {{Person Name}},3,1,1,3
+editing details on {{Account Category}} account,3,1,1,3
+editing details on {{Account Type}} account,3,1,1,3
+editing info on {{Account Category}} account,3,1,1,3
+editing info on {{Account Type}} account,3,1,1,3
+editing information on {{Account Category}} account,3,1,1,3
+modify information on {{Account Category}} account,3,1,1,3
+modify information on {{Account Type}} account,3,1,1,3
+modify {{Account Category}} account,3,1,1,3
+modify {{Account Type}} account,3,1,1,3
+modifying data on {{Account Category}} account,3,1,1,3
+modifying data on {{Account Type}} account,3,1,1,3
+modifying details on {{Account Category}} account,3,1,1,3
+modifying details on {{Account Type}} account,3,1,1,3
+find the bill from {{Person Name}},3,1,1,3
+get inviice from {{Person Name}},3,1,1,3
+getting billsfrom {{Person Name}},3,1,1,3
+have problems with canceling purchase {{Order Number}},3,1,1,3
+modifying info on {{Account Category}} account,3,1,1,3
+modifying info on {{Account Type}} account,3,1,1,3
+modifying information on {{Account Category}} account,3,1,1,3
+modifying information on {{Account Type}} account,3,1,1,3
+help me to use the {{Account Category}} profile,3,1,1,3
+help me to use the {{Account Type}} profile,3,1,1,3
+help me use the {{Account Type}} profile,3,1,1,3
+I no longer want purchase {{Order Number}},3,1,1,3
+I want assistance canceling order {{Order Number}},3,1,1,3
+is it possible to see purchase {{Order Number}} status?,3,1,1,3
+iwant assistance canceling order {{Order Number}},3,1,1,3
+locating order {{Order Number}},3,1,1,3
+looking for invoice from {{Person Name}},3,1,1,3
+mldifying {{Account Category}} account,3,1,1,3
+modify data on {{Account Category}} account,3,1,1,3
+modify data on {{Account Type}} account,3,1,1,3
+modify details on {{Account Category}} account,3,1,1,3
+modify details on {{Account Type}} account,3,1,1,3
+modify info on {{Account Category}} account,3,1,1,3
+modify info on {{Account Type}} account,3,1,1,3
+i need help canceling order {{Order Number}},3,1,1,3
+i need help cancelling purchase {{Order Number}},3,1,1,3
+i need help with canceling order {{Order Number}},3,1,1,3
+I want assistance to cancel order {{Order Number}},3,1,1,3
+help using the {{Account Category}} profile,3,1,1,3
+help using the {{Account Type}} profile,3,1,1,3
+i need help with cancelling order {{Order Number}},3,1,1,3
+i want assistance cancelling order {{Order Number}},3,1,1,3
+i want assistance to cancel order {{Order Number}},3,1,1,3
+i want help to cancel order {{Order Number}},3,1,1,3
+i want help to cancel purchase {{Order Number}},3,1,1,3
+I need assistance canceling order {{Order Number}},3,1,1,3
+I need assistance cancelling order {{Order Number}},3,1,1,3
+I need assistance to cancel order {{Order Number}},3,1,1,3
+is it possible to cancel purchase {{Order Number}},3,1,1,3
+I expect an restitution of {{Currency Symbol}}{{Refund Amount}},3,1,1,3
+use {{Account Category}} account,3,1,1,3
+want help to cancel purchase {{Order Number}},3,1,1,3
+i dont know what i need to do to change to the {{Account Type}} account,3,1,1,3
+i exepct a compensation of {{Currency Symbol}}{{Refund Amount}},3,1,1,3
+I need assistance with canceling purchase {{Order Number}},3,1,1,3
+how do I edit order {{Order Number}}?,3,1,1,3
+how do I use the {{Account Category}} profile?,3,1,1,3
+how do I use the {{Account Type}} profile?,3,1,1,3
+how do i use the {{Account Type}} account,3,1,1,3
+how to cancel purchase {{Order Number}}?,3,1,1,3
+I need help with canceling order {{Order Number}},3,1,1,3
+I need help with cancelling order {{Order Number}},3,1,1,3
+i expect an rebate of {{Refund Amount}} dollars,3,1,1,3
+i expect an reimbursement of {{Refund Amount}} dollars,3,1,1,3
+update {{Account Category}} account,3,1,1,3
+update {{Account Type}} account,3,1,1,3
+i do not know how i can cancel order {{Order Number}},3,1,1,3
+how to edit order {{Order Number}},3,1,1,3
+how to use the {{Account Category}} profile?,3,1,1,3
+how to use the {{Account Type}} profile?,3,1,1,3
+i dont know what i have to do to change to the {{Account Type}} account,3,1,1,3
+i dont know what i have to do to switch to the {{Account Type}} account,3,1,1,3
+can you help me canceling order {{Order Number}}?,3,1,1,3
+can you help me cancelling order {{Order Number}}?,3,1,1,3
+updating info on {{Account Type}} account,3,1,1,3
+updating information on {{Account Category}} account,3,1,1,3
+updating information on {{Account Type}} account,3,1,1,3
+updating {{Account Category}} accojnt,3,1,1,3
+updating {{Account Category}} account,3,1,1,3
+updating {{Account Type}} accojnt,3,1,1,3
+updating {{Account Type}} account,3,1,1,3
+upddate order {{Order Number}},3,1,1,3
+would it be possible to cancel purchase {{Order Number}}?,2,1,1,2
+I am trying to change to the {{Account Category}} account,2,1,1,2
+I am trying to change to the {{Account Type}} account,2,1,1,2
+I am trying to download the bill from {{Person Name}},2,1,1,2
+I am trying to find information about a {{Account Type}} account removal,2,1,1,2
+what do I have to do to change to the {{Account Type}} account?,2,1,1,2
+what do I have to do to close the {{Account Type}} account?,2,1,1,2
+what do I have to do to get my invoice from {{Person Name}}?,2,1,1,2
+what do I ned to do to cancel order {{Order Number}}?,2,1,1,2
+what do i have to do to open a {{Account Type}} account,2,1,1,2
+what do i need to do to change to the {{Account Category}} account,2,1,1,2
+what do i need to do to get my invoices from {{Person Name}},2,1,1,2
+can I see order {{Order Number}} status?,2,1,1,2
+can ya help me change to the {{Account Type}} account,2,1,1,2
+can ya help me change a product of purchase {{Order Number}},2,1,1,2
+can uhelp me to check the ETA of purchase {{Order Number}},2,1,1,2
+can uhelp me to cancel purchase {{Order Number}},2,1,1,2
+can uhelp me swap some items of order {{Order Number}},2,1,1,2
+can uhelp me cancelliung order {{Order Number}},2,1,1,2
+where can I cancel order {{Order Number}}?,2,1,1,2
+what is order {{Order Number}} status?,2,1,1,2
+can you help me using the {{Account Type}} profile?,2,1,1,2
+can you help me track order {{Order Number}}?,2,1,1,2
+can you help me to change to the {{Account Type}} account?,2,1,1,2
+can you help me to cancel order {{Order Number}}?,2,1,1,2
+can you help me to cancel order {{Order Number}} ?,2,1,1,2
+can you help me switching to the {{Account Category}} account?,2,1,1,2
+can you help me seeing the status of order {{Order Number}}?,2,1,1,2
+how to see the current status of order {{Order Number}}?,2,1,1,2
+how to see purchase {{Order Number}} current status?,2,1,1,2
+how to see order {{Order Number}} status,2,1,1,2
+how to see order {{Order Number}} current status?,2,1,1,2
+how to open a {{Account Category}} account?,2,1,1,2
+how to get my bills from {{Person Name}},2,1,1,2
+how to edt order {{Order Number}},2,1,1,2
+i dont khow how to cancel order {{Order Number}},2,1,1,2
+i do not knwo how to cancel order {{Order Number}},2,1,1,2
+i do not know what to do to switch to the {{Account Type}} account,2,1,1,2
+i do not know what to do to switch to the {{Account Category}} account,2,1,1,2
+i do not know what to do to open a {{Account Category}} account,2,1,1,2
+i do not know what i have to do to delete the {{Account Type}} account,2,1,1,2
+i do not know how to look for my invoice from {{Person Name}},2,1,1,2
+i do not know how i can download my bills from {{Person Name}},2,1,1,2
+i do not know how i can canmcel order {{Order Number}},2,1,1,2
+how can i tfack purchase {{Order Number}},2,1,1,2
+how can i create a {{Account Type}} account,2,1,1,2
+I need help canceling order {{Order Number}},2,1,1,2
+I need assistance with cancelling order {{Order Number}},2,1,1,2
+I need assistance to remove my {{Account Type}} account,2,1,1,2
+i dont want purchase {{Order Number}},2,1,1,2
+i dont knwo how i can cancel purchase {{Order Number}},2,1,1,2
+i dont know what to do to cancel purchase {{Order Number}},2,1,1,2
+i dont know what to do to cancel order {{Order Number}},2,1,1,2
+i dont know how to cncel purchase {{Order Number}},2,1,1,2
+i dont know how to check the ETA of purchase {{Order Number}},2,1,1,2
+how to use tye {{Account Type}} account?,2,1,1,2
+how to use the {{Account Type}} profile,2,1,1,2
+how to use the {{Account Type}} account?,2,1,1,2
+how to use the {{Account Category}} account?,2,1,1,2
+how to switch a product of order {{Order Number}}?,2,1,1,2
+i have to cancel purchase {{Order Number}},2,1,1,2
+i have problems with the deletion of a {{Account Type}} account,2,1,1,2
+i have a problem with cancelling order {{Order Number}},2,1,1,2
+i expect a refund of {{Refund Amount}} dollars has it been processed,2,1,1,2
+I need information about the cancellation of a {{Account Type}} account,2,1,1,2
+I need help with cancellng order {{Order Number}},2,1,1,2
+I need help to check purchase {{Order Number}} current status,2,1,1,2
+I need help locatin purchase {{Order Number}},2,1,1,2
+how to change to the {{Account Category}} account?,2,1,1,2
+how do i use the {{Account Type}} profile,2,1,1,2
+how do i use the {{Account Category}} account,2,1,1,2
+how do i change a product of purchase {{Order Number}},2,1,1,2
+how do i cancel order {{Order Number}},2,1,1,2
+how do I download my bills from {{Person Name}}?,2,1,1,2
+how do I check my bill from {{Person Name}}?,2,1,1,2
+how do I cancel purchae {{Order Number}}?,2,1,1,2
+help to check the ETA of purchase {{Order Number}},2,1,1,2
+I want assistance to see my invoices from {{Person Name}},2,1,1,2
+I want assistance to change to the {{Account Type}} account,2,1,1,2
+I want assistance to cancle purchase {{Order Number}},2,1,1,2
+I want assistance switching to the {{Account Category}} account,2,1,1,2
+i need help with canceling purchase {{Order Number}},2,1,1,2
+i need help to swap something of purchase {{Order Number}},2,1,1,2
+i need help to cancel purchase {{Order Number}},2,1,1,2
+i need help cancelling puchase {{Order Number}},2,1,1,2
+i need help canceling purchase {{Order Number}},2,1,1,2
+i need assistance to check the eta of the order {{Order Number}},2,1,1,2
+i need assistance creating a {{Account Type}} account,2,1,1,2
+i need assistance changing to the {{Account Type}} account,2,1,1,2
+i need assistance canceling order {{Order Number}},2,1,1,2
+i have to use the {{Account Category}} account,2,1,1,2
+i have to download the invoices from {{Person Name}},2,1,1,2
+I have problems with the cancellation of a {{Account Type}} account,2,1,1,2
+i want help cancelling purchase {{Order Number}},2,1,1,2
+i want help cancelling order {{Order Number}},2,1,1,2
+i want help canceling purchase {{Order Number}},2,1,1,2
+i want assistance tocancel order {{Order Number}},2,1,1,2
+i want assistance to cancel purchase {{Order Number}},2,1,1,2
+i want assistance canceling order {{Order Number}},2,1,1,2
+i try to edit purchase {{Order Number}},2,1,1,2
+i try to cancel order {{Order Number}},2,1,1,2
+how can I see order {{Order Number}} current status?,2,1,1,2
+how can I check the ETA of the purchase {{Order Number}}?,2,1,1,2
+how can I cancel purchase {{Order Number}}?,2,1,1,2
+help using the {{Account Type}} account,2,1,1,2
+help using the {{Account Category}} account,2,1,1,2
+help updating order {{Order Number}},2,1,1,2
+help to correct order {{Order Number}},2,1,1,2
+I have a problem with cancelling order {{Order Number}},2,1,1,2
+is it possible to get my invoice from {{Person Name}},2,1,1,2
+is it possible to download my damn invoices from {{Person Name}},2,1,1,2
+is it possible to cxancel order {{Order Number}},2,1,1,2
+is it possible to check order {{Order Number}} current status?,2,1,1,2
+is it possible to cancel order {{Order Number}}?,2,1,1,2
+information about the cancellation of my {{Account Category}} account,2,1,1,2
+i want help to create  a {{Account Category}} account,2,1,1,2
+I need assistance to download the bills from {{Person Name}},2,1,1,2
+I need assistance to check order {{Order Number}} current status,2,1,1,2
+I need assistance to change to the {{Account Category}} account,2,1,1,2
+I need assistance changing to the {{Account Category}} account,2,1,1,2
+"I have to see the ETA of the order {{Order Number}}, help me",2,1,1,2
+"I have to edit order {{Order Number}}, how to do it?",2,1,1,2
+I have to download my bill from {{Person Name}},2,1,1,2
+I have to check the ETA of the purchase {{Order Number}},2,1,1,2
+I need information about the deletion of my {{Account Type}} account,2,1,1,2
+I need information about the cancellation of my {{Account Type}} account,2,1,1,2
+help seeing the ETA of order {{Order Number}},2,1,1,2
+help seeing order {{Order Number}} status,2,1,1,2
+help me using the {{Account Type}} profile,2,1,1,2
+help me use the {{Account Category}} profile,2,1,1,2
+help me to see the ETA of the purchase {{Order Number}},2,1,1,2
+is it possible to place a goddamn order from {{Delivery Country}},2,1,1,2
+is it possible to place a bloody order from {{Delivery City}},2,1,1,2
+I have problems with cancelling order {{Order Number}},2,1,1,2
+I have got to see the ETA of purchase {{Order Number}},2,1,1,2
+"I have got to change to the {{Account Type}} account, how to do it?",2,1,1,2
+"I have got to change to the {{Account Category}} account, I need help",2,1,1,2
+"I have got to cancel purchase {{Order Number}}, help me",2,1,1,2
+I have a question about canceling purchase {{Order Number}},2,1,1,2
+I have a problem with the deletion of a {{Account Type}} account,2,1,1,2
+help getting my bills from {{Person Name}},2,1,1,2
+help editing purchase {{Order Number}},2,1,1,2
+help deleting some products from purchase {{Order Number}},2,1,1,2
+help changing to the {{Account Type}} account,2,1,1,2
+modiby data on {{Account Type}} account,2,1,1,2
+mldifying {{Account Type}} account,2,1,1,2
+mail me my invoices from {{Person Name}},2,1,1,2
+mail me my invoice from {{Person Name}},2,1,1,2
+mail me my damn bill from {{Person Name}},2,1,1,2
+look for invoices from {{Person Name}},2,1,1,2
+locate purchase {{Order Number}},2,1,1,2
+is it possible to update order {{Order Number}}?,2,1,1,2
+is it possible to swap an item of purchase {{Order Number}}?,2,1,1,2
+I want assistance checking the ETA of purchase {{Order Number}},2,1,1,2
+I want assistance cancelling order {{Order Number}},2,1,1,2
+I no longer want order {{Order Number}},2,1,1,2
+have a problem with canceling order {{Order Number}},2,1,1,2
+give me information about the cancellation of a {{Account Type}} account,2,1,1,2
+gedtting bill from {{Person Name}},2,1,1,2
+modify {{Account Type}} accunt,2,1,1,2
+modifu details on {{Account Category}} account,2,1,1,2
+help me to delete some products from purchase {{Order Number}},2,1,1,2
+help me to create a {{Account Category}} account,2,1,1,2
+help me to check the current status of order {{Order Number}},2,1,1,2
+help me to check the ETA of the order {{Order Number}},2,1,1,2
+help me see the eta of purchase {{Order Number}},2,1,1,2
+help me see the ETA of the order {{Order Number}},2,1,1,2
+help me see purchase {{Order Number}} status,2,1,1,2
+help me see my bill from {{Person Name}},2,1,1,2
+help me create a {{Account Type}} account,2,1,1,2
+help me checking purchase {{Order Number}} current status,2,1,1,2
+help me change purchase {{Order Number}},2,1,1,2
+need assistance to check the ETA of purchase {{Order Number}},2,1,1,2
+need assistance to cancel orer {{Order Number}},2,1,1,2
+need assistance to cancel order {{Order Number}},2,1,1,2
+need assistance finding the bills from {{Person Name}},2,1,1,2
+need assistance downloading my invoice{{Invoice Number}},2,1,1,2
+need assistance cancelling purchase {{Order Number}},2,1,1,2
+modifying order {{Order Number}},2,1,1,2
+help changing to the {{Account Category}} account,2,1,1,2
+help cancelling purchase {{Order Number}},2,1,1,2
+help  with cancelling order {{Order Number}},2,1,1,2
+have problems wth canceling purchase {{Order Number}},2,1,1,2
+have problems with canceling order  {{Order Number}},2,1,1,2
+have a question about cancelling order {{Order Number}},2,1,1,2
+have a question about canceling order {{Order Number}},2,1,1,2
+have a problem with the deletion of my {{Account Category}} account,2,1,1,2
+have a problem with cancelling order {{Order Number}},2,1,1,2
+I want to cancel purchase {{Order Number}},2,1,1,2
+I want information about the termination of a {{Account Type}} account,2,1,1,2
+I want help to open a {{Account Type}} account,2,1,1,2
+I want help to cancle purchase {{Order Number}},2,1,1,2
+needassistance cancelling purchase {{Order Number}},2,1,1,2
+need to switch to the {{Account Type}} account,2,1,1,2
+need to see the ETA of purchase {{Order Number}} how to do it,2,1,1,2
+need to check the bill from {{Person Name}},2,1,1,2
+need help with cancelliing order {{Order Number}},2,1,1,2
+need help to cancel purchase {{Order Number}},2,1,1,2
+need help seeing purchase {{Order Number}} current status,2,1,1,2
+need help cancelling purchase {{Order Number}},2,1,1,2
+need help canceling purchase {{Order Number}},2,1,1,2
+need assistance with opening my {{Account Type}} account,2,1,1,2
+need assistance with canceling order {{Order Number}},2,1,1,2
+need assistance to open  a {{Account Category}} account for my dad,2,1,1,2
+I want help to cancel order {{Order Number}},2,1,1,2
+I want help checking purchase {{Order Number}} status,2,1,1,2
+I want help changing to the {{Account Category}} account,2,1,1,2
+I want help canceling order {{Order Number}},2,1,1,2
+I want assistance to switch to the {{Account Category}} account,2,1,1,2
+I want assistance to see the ETA of the order {{Order Number}},2,1,1,2
+editing {{Account Category}}  account,2,1,1,2
+editing purchase {{Order Number}},2,1,1,2
+find my bilps from {{Person Name}},2,1,1,2
+find information about opening a {{Account Type}} account,2,1,1,2
+eta of order {{Order Number}},2,1,1,2
+edtiing order {{Order Number}},2,1,1,2
+editting details on {{Account Type}} account,2,1,1,2
+editing {{Account Type}}  account,2,1,1,2
+"I want to track purchase {{Order Number}}, how could I do it?",2,1,1,2
+I want to download my invoice from {{Person Name}},2,1,1,2
+I'm waiting for an rebate of {{Refund Amount}} dollars,2,1,1,2
+I'm waiting for a reimbursement ofv {{Currency Symbol}}{{Refund Amount}} was it processed,2,1,1,2
+I expect a fucking compensation of {{Currency Symbol}}{{Refund Amount}},2,1,1,2
+openng {{Account Category}} account,2,1,1,2
+opening {{Account Type}} account,2,1,1,2
+opening {{Account Category}} account,2,1,1,2
+open {{Account Type}} cacount for wife,2,1,1,2
+editing data on {{Account Category}} acocunt,2,1,1,2
+editdata on {{Account Type}} account,2,1,1,2
+edit {{Account Category}} accont,2,1,1,2
+edit order  {{Order Number}},2,1,1,2
+edit info on {{Account Type}} accunt,2,1,1,2
+edit info on {{Account Category}} accunt,2,1,1,2
+edit details oon {{Account Type}} account,2,1,1,2
+open a {{Account Type}} acount for my dad,2,1,1,2
+new {{Account Category}} acount for wife,2,1,1,2
+can  uhelp me canceling order {{Order Number}},2,1,1,2
+assistance with cancelling pucrhase {{Order Number}},2,1,1,2
+assistance with canceling order {{Order Number}},2,1,1,2
+assistance using the {{Account Category}} profile,2,1,1,2
+assistance to use the {{Account Category}} profile,2,1,1,2
+assistance to see the ETA of the order {{Order Number}},2,1,1,2
+problems with cnceling purchase {{Order Number}},2,1,1,2
+problem with {{Account Type}} account removals,2,1,1,2
+problem with {{Account Type}} account deletions,2,1,1,2
+problem with {{Account Category}} account removals,2,1,1,2
+problem with {{Account Category}} account cancellations,2,1,1,2
+downloading bills from {{Person Name}},2,1,1,2
+I'm waiting for a rebateof {{Currency Symbol}}{{Refund Amount}},2,1,1,2
+I'm trying to cancel purchase {{Order Number}},2,1,1,2
+I'm trying to cancel order {{Order Number}},2,1,1,2
+another {{Account Category}} account for father,2,1,1,2
+creating new {{Account Category}} account for daughter,2,1,1,2
+creating new {{Account Category}} account,2,1,1,2
+create {{Account Type}} cacount,2,1,1,2
+create {{Account Type}} accountfor wife,2,1,1,2
+I don't know what I have to do to switch to the {{Account Type}} account,2,1,1,2
+I don't know what I have to do to get the invoice{{Invoice Number}},2,1,1,2
+I don't know how to switch to the {{Account Type}} account,2,1,1,2
+question about the cancellation of a {{Account Category}} account,2,1,1,2
+question about my {{Account Type}} account removal,2,1,1,2
+question about cancelling order {{Order Number}},2,1,1,2
+purchase {{Order Number}} ststus,2,1,1,2
+pudate {{Account Category}} account,2,1,1,2
+problems with {{Account Type}} account terminations,2,1,1,2
+deleting {{Account Type}} accoumt,2,1,1,2
+delete {{Account Type}} acvount,2,1,1,2
+creatingnew {{Account Type}} account,2,1,1,2
+see order {{Order Number}} fucking current status,2,1,1,2
+see my blls from {{Person Name}},2,1,1,2
+see invoicefrom {{Person Name}},2,1,1,2
+see current status of order {{Order Number}},2,1,1,2
+see ETA of order {{Order Number}},2,1,1,2
+see ETA ob order {{Order Number}},2,1,1,2
+removing {{Account Category}} acconut,2,1,1,2
+I dp not know how to cancel order {{Order Number}},2,1,1,2
+I don't know what to do to switch to the {{Account Type}} account,2,1,1,2
+I don't know what to do to get the bills from {{Person Name}},2,1,1,2
+I don't know what to do to create a {{Account Type}} account,2,1,1,2
+assistance to see purchase {{Order Number}} status,2,1,1,2
+assistance to see order {{Order Number}} current status,2,1,1,2
+assistance to delete an item from purchase {{Order Number}},2,1,1,2
+assistance seeing the ETA of order {{Order Number}},2,1,1,2
+assistance checking the ETA of the purchase {{Order Number}},2,1,1,2
+could you help me cancelling purchase {{Order Number}}?,2,1,1,2
+could i place an orde from {{Delivery Country}},2,1,1,2
+could I use the {{Account Type}} profile?,2,1,1,2
+could I place a damn order from {{Delivery Country}}?,2,1,1,2
+corrrect order {{Order Number}},2,1,1,2
+correcting purchase {{Order Number}},2,1,1,2
+correcting infornation on {{Account Type}} account,2,1,1,2
+correcting infornation on {{Account Category}} account,2,1,1,2
+"I do not want this item, cancel order {{Order Number}}",2,1,1,2
+I do not want purchase {{Order Number}},2,1,1,2
+I do not know what to do to change to the {{Account Type}} account,2,1,1,2
+I do not know what to do to cancel purchase {{Order Number}},2,1,1,2
+I do not know what I need to do to close the {{Account Type}} account,2,1,1,2
+I do not know what I need to do to change to the {{Account Type}} acount,2,1,1,2
+I do not know what I have to do to cancel a {{Account Category}} account,2,1,1,2
+I do not know how to open a {{Account Type}} account for my daughter,2,1,1,2
+seeing order {{Order Number}} status,2,1,1,2
+seeing order {{Order Number}} current status,2,1,1,2
+see order {{Order Number}} stats,2,1,1,2
+I don't know how to change to the {{Account Type}} account,2,1,1,2
+I don't know how I can get my invoice from {{Person Name}},2,1,1,2
+I don't know how I can create a {{Account Type}} account,2,1,1,2
+I don't know how I can change to the {{Account Type}} account,2,1,1,2
+chnge data on {{Account Type}} account,2,1,1,2
+chnaging order {{Order Number}},2,1,1,2
+checking purchase {{Order Number}} status,2,1,1,2
+check the current status of purchase {{Order Number}},2,1,1,2
+correcting info on {{Account Category}} aqccount,2,1,1,2
+correcting data on {{Account Type}} accoujnt,2,1,1,2
+create another {{Account Category}} account for mum,2,1,1,2
+could you help me find my invoice from {{Person Name}}?,2,1,1,2
+could you help me changing to the {{Account Type}} account?,2,1,1,2
+can I modify order {{Order Number}}?,2,1,1,2
+can I get the bills from {{Person Name}}?,2,1,1,2
+can I get the bill from {{Person Name}}?,2,1,1,2
+can I get my invoice from {{Person Name}}?,2,1,1,2
+can I get my bill from {{Person Name}}?,2,1,1,2
+I can't see order {{Order Number}} status,2,1,1,2
+I can't edit order {{Order Number}},2,1,1,2
+"I can't afford order {{Order Number}}, help me cancelling it",2,1,1,2
+showing me order {{Order Number}} current status,2,1,1,2
+show me the eta of the order {{Order Number}},2,1,1,2
+show me purchase {{Order Number}} current status,2,1,1,2
+show me ETA of purchase {{Order Number}},2,1,1,2
+send me my bill from {{Person Name}},2,1,1,2
+send me bull from {{Person Name}},2,1,1,2
+send me billa from {{Person Name}},2,1,1,2
+seeing purchase {{Order Number}} current status,2,1,1,2
+can I change order {{Order Number}}?,2,1,1,2
+changkng to {{Account Category}} account,2,1,1,2
+changing purchase {{Order Number}},2,1,1,2
+changing informatiln on {{Account Category}} account,2,1,1,2
+update data on {{Account Category}} cacount,2,1,1,2
+I do not know how I could see order {{Order Number}} status,2,1,1,2
+I do not know how I can locate my bills from {{Person Name}},2,1,1,2
+I do not know how I can download the bill from {{Person Name}},2,1,1,2
+I do not know how I can change to the {{Account Type}} account,2,1,1,2
+I do not know how I can change to the {{Account Category}} account,2,1,1,2
+check the ETA of purchase {{Order Number}},2,1,1,2
+check purchase {{Order Number}} status,2,1,1,2
+check current status of purchase {{Order Number}},2,1,1,2
+chcek bills from {{Person Name}},2,1,1,2
+can I open a {{Account Type}} account for my daughter?,2,1,1,2
+can I open a {{Account Category}} account for my daughter?,2,1,1,2
+can you help me seeing the ETA of the order {{Order Number}}?,2,1,1,2
+can you help me see the ETA of the order {{Order Number}}?,2,1,1,2
+can you help me see purchase {{Order Number}} current status?,2,1,1,2
+can you help me create a {{Account Type}} account?,2,1,1,2
+can i correct order {{Order Number}},2,1,1,2
+can I update order {{Order Number}}?,2,1,1,2
+update inforemation on {{Account Type}} account,2,1,1,2
+change  order {{Order Number}},2,1,1,2
+cancel {{Account Type}} acount,2,1,1,2
+changing data on {{Account Category}}  account,2,1,1,2
+change to {{Account Category}} acount,2,1,1,2
+change purxhase {{Order Number}},2,1,1,2
+change purchzse {{Order Number}},2,1,1,2
+can I edit order {{Order Number}}?,2,1,1,2
+can I download my invoice from {{Person Name}}?,2,1,1,2
+can I change several articles of order {{Order Number}}?,2,1,1,2
+what is order {{Order Number}} crrent status,2,1,1,2
+where to switch to the {{Account Type}} account,2,1,1,2
+where to see order {{Order Number}} status?,2,1,1,2
+where to cancel purchase {{Order Number}}?,2,1,1,2
+where is order {{Order Number}},2,1,1,2
+where do i see the eta of the order {{Order Number}},2,1,1,2
+where do I see the ETA of purchase {{Order Number}}?,2,1,1,2
+where do I check the status of purchase {{Order Number}}?,2,1,1,2
+ETA of purchase {{Order Number}},2,1,1,2
+I am trying to cancel order {{Order Number}},2,1,1,2
+what do I have to do to change to the {{Account Category}} account?,2,1,1,2
+what do I have to do to cancel order {{Order Number}}?,2,1,1,2
+whag do i need to do to cancel order {{Order Number}},2,1,1,2
+I am trying to cancel purchaes {{Order Number}},2,1,1,2
+use {{Account Type}} acdcount,2,1,1,2
+use {{Account Category}} acdcount,2,1,1,2
+i cant edit order {{Order Number}},2,1,1,2
+i cannot find my invoices from {{Person Name}},2,1,1,2
+i can no longer pay for order {{Order Number}},2,1,1,2
+i can no longer afford purchase {{Order Number}},2,1,1,2
+want assistance to cancel order {{Order Number}},2,1,1,2
+want assistance to cancel order  {{Order Number}},2,1,1,2
+want assistance cancelling purchase {{Order Number}},2,1,1,2
+want assistance canceling purchase {{Order Number}},2,1,1,2
+want assistance canceling order {{Order Number}},2,1,1,2
+want asistance canceling order {{Order Number}},2,1,1,2
+wanna edit order {{Order Number}},2,1,1,2
+wanna check purchase {{Order Number}} status,2,1,1,2
+"I can no longer afford purchase {{Order Number}}, cancel it",2,1,1,2
+"I can no longer afford order {{Order Number}}, cancel it",2,1,1,2
+wanna  use the {{Account Type}} profile help me,2,1,1,2
+what is order {{Order Number}} current status,2,1,1,2

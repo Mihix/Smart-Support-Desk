@@ -1,0 +1,21 @@
+message,expected_category,predicted_category,confidence,result
+hey i cant log into my acc,ACCOUNT,ACCOUNT,0.4444,Correct
+forgot my passwrd how can i reset it,ACCOUNT,ACCOUNT,0.4731,Correct
+pls cancel my order asap,CANCEL,ORDER,0.6091,Incorrect
+i dont want this order anymore cancel it,CANCEL,ORDER,0.502,Incorrect
+money got deducted twice from my card,PAYMENT,REFUND,0.322,Incorrect
+payment failed but amount was taken,PAYMENT,PAYMENT,0.5336,Correct
+my parcel still hasnt arrived,DELIVERY,DELIVERY,0.2822,Correct
+where is my package its very late,DELIVERY,DELIVERY,0.1998,Correct
+can i get my money back pls,REFUND,REFUND,0.9435,Correct
+i returned the item but no refund yet,REFUND,REFUND,0.3642,Correct
+can u update my delivery adress,SHIPPING,SHIPPING,0.7713,Correct
+need to change the shipping adress,SHIPPING,SHIPPING,0.7123,Correct
+where can i see my order details,ORDER,ORDER,0.2928,Correct
+i placed an order but cant find it,ORDER,ORDER,0.4915,Correct
+can u send me the invoice again,INVOICE,INVOICE,0.6111,Correct
+need a copy of my bill for last purchase,INVOICE,INVOICE,0.6641,Correct
+how do i speak to a real support agent,CONTACT,CONTACT,0.9651,Correct
+is there a phone number to contact u,CONTACT,CONTACT,0.6943,Correct
+really happy with the service thank u,FEEDBACK,CONTACT,0.2433,Incorrect
+how can i stop my monthly subscription,SUBSCRIPTION,SUBSCRIPTION,0.4209,Correct

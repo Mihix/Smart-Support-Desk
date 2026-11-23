@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": 1,
+    "category": "REFUND",
+    "question": "How can I request a refund?",
+    "answer": "Customers should contact the support team with their order number and reason for requesting a refund. The support team must review the request before confirming eligibility."
+  },
+  {
+    "id": 2,
+    "category": "REFUND",
+    "question": "Where is my refund?",
+    "answer": "Refund processing can depend on the payment method and the status of the request. Customers should provide their order number so the support team can investigate."
+  },
+  {
+    "id": 3,
+    "category": "ORDER",
+    "question": "How can I check my order status?",
+    "answer": "Customers can provide their order number to the support team to request an update on their order."
+  },
+  {
+    "id": 4,
+    "category": "CANCEL",
+    "question": "Can I cancel my order?",
+    "answer": "Customers should contact the support team with their order number and cancellation request. Cancellation availability must be checked before confirming."
+  },
+  {
+    "id": 5,
+    "category": "DELIVERY",
+    "question": "My order has not arrived.",
+    "answer": "Customers should provide their order number so the support team can investigate the delivery status."
+  },
+  {
+    "id": 6,
+    "category": "SHIPPING",
+    "question": "How can I track my shipment?",
+    "answer": "Customers should provide their order number to the support team to request shipment tracking information."
+  },
+  {
+    "id": 7,
+    "category": "PAYMENT",
+    "question": "My payment failed.",
+    "answer": "Customers should provide the order number and describe the payment error. They should avoid sharing full card numbers, passwords, or security codes."
+  },
+  {
+    "id": 8,
+    "category": "ACCOUNT",
+    "question": "I cannot access my account.",
+    "answer": "Customers should describe the account access issue. They should never share their password or verification codes with support staff."
+  },
+  {
+    "id": 9,
+    "category": "INVOICE",
+    "question": "How can I get my invoice?",
+    "answer": "Customers should provide their order number and request an invoice from the support team."
+  },
+  {
+    "id": 10,
+    "category": "CONTACT",
+    "question": "How can I contact customer support?",
+    "answer": "Customers can submit a support ticket through the support portal. They should include a clear description of their issue."
+  },
+  {
+    "id": 11,
+    "category": "SUBSCRIPTION",
+    "question": "How can I manage my subscription?",
+    "answer": "Customers should provide their account information and describe the subscription change they need. The support team can review the request."
+  },
+  {
+    "id": 12,
+    "category": "FEEDBACK",
+    "question": "How can I submit feedback?",
+    "answer": "Customers can submit feedback through the support portal. They should describe their experience and any suggestions."
+  }
+]

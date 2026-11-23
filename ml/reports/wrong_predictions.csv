@@ -1,0 +1,8 @@
+message,actual_category,predicted_category,confidence
+are the service charges refundable?,REFUND,CANCEL,0.6295899177155543
+when can I expect a refund,REFUND,DELIVERY,0.59484217861237
+help me inform of a problem withpayment,PAYMENT,ACCOUNT,0.4784568135336219
+update purchase00004587345,ORDER,SHIPPING,0.37759680161632936
+i have a problem with an adress update,SHIPPING,ACCOUNT,0.2959993041645954
+are the charges of your services refundable?,REFUND,CANCEL,0.2339054386171257
+are service charges reimbursable?,REFUND,CANCEL,0.2134091983176182
